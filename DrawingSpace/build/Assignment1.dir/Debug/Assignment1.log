@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\CSCE441\SkeletonCode\src\main.cpp(59,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CSCE441\SkeletonCode\src\main.cpp(77,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CSCE441\SkeletonCode\src\main.cpp(78,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CSCE441\SkeletonCode\src\main.cpp(95,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CSCE441\SkeletonCode\src\main.cpp(96,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Assignment1.vcxproj -> D:\CSCE441\SkeletonCode\build\Debug\Assignment1.exe

@@ -1,0 +1,9 @@
+D:/CSCE441/SkeletonCode/build/CMakeFiles/Assignment1.dir
+D:/CSCE441/SkeletonCode/build/CMakeFiles/INSTALL.dir
+D:/CSCE441/SkeletonCode/build/CMakeFiles/ALL_BUILD.dir
+D:/CSCE441/SkeletonCode/build/CMakeFiles/ZERO_CHECK.dir
+D:/CSCE441/glfw-3.3.2/debug/CMakeFiles/uninstall.dir
+D:/CSCE441/glfw-3.3.2/debug/CMakeFiles/INSTALL.dir
+D:/CSCE441/glfw-3.3.2/debug/CMakeFiles/ALL_BUILD.dir
+D:/CSCE441/glfw-3.3.2/debug/src/CMakeFiles/glfw.dir
+D:/CSCE441/glfw-3.3.2/debug/src/CMakeFiles/INSTALL.dir

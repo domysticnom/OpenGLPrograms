@@ -1,0 +1,10 @@
+^D:\CSCE441\SKELETONCODE\BUILD\CMAKEFILES\160CF4713B619168A803F3DEE068DEC2\GENERATE.STAMP.RULE
+setlocal
+D:\CSCE441\cmake\bin\cmake.exe -SD:/CSCE441/SkeletonCode -BD:/CSCE441/SkeletonCode/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/CSCE441/SkeletonCode/build/Assignment1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
